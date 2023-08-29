@@ -1,2 +1,3 @@
-# Johann-Strauss-Sohn_Op314_Donauwalzer_Breitkopf
+# Johann Strauss Sohn: An der schönen blauen Donau (Donauwalzer)
+
 MEI encoding of the famous Blue Danube Waltz, "An der schönen blauen Donau," Op.314 by Johann Strauss Sohn (Johann Strauss junior), following the [Breitkopf & Härtel edition from ca. 1920, plate number B. 3281](https://imslp.org/wiki/Special:ReverseLookup/17764), as available on IMSLP.
