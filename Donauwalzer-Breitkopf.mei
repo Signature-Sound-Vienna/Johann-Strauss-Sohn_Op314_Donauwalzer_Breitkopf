@@ -3582,6 +3582,11 @@
                               </staffDef>
                            </staffGrp>
                         </scoreDef>
+                        <scoreDef xml:id="sd-trans-st2-m23">
+                           <staffGrp xml:id="sg-trans-st2-m23">
+                              <staffDef xml:id="st-trans-st2-m23" n="2" trans.diat="7" trans.semi="12"/>
+                           </staffGrp>
+                        </scoreDef>
                         <measure xml:id="mcz1v3z" n="23">
                            <staff xml:id="sb594d9" n="1">
                               <layer xml:id="liw3cjh" n="1">
@@ -28719,6 +28724,11 @@
                            </staffGrp>
                         </scoreDef>
                         <pb xml:id="sxenoj6"/>
+                        <scoreDef xml:id="sd-trans-st2-m167">
+                           <staffGrp xml:id="sg-trans-st2-m167">
+                              <staffDef xml:id="st-trans-st2-m167" n="2" trans.diat="0" trans.semi="0"/>
+                           </staffGrp>
+                        </scoreDef>
                         <measure xml:id="mqpciui" n="167">
                            <staff xml:id="spzzcgm" n="1">
                               <layer xml:id="lh2t4sy" n="1">
@@ -32705,6 +32715,11 @@
                         </measure>
                      </ending>
                      <section xml:id="Walzer-4-B">
+                        <scoreDef xml:id="sd-trans-st2-m191">
+                           <staffGrp xml:id="sg-trans-st2-m191">
+                              <staffDef xml:id="st-trans-st2-m191" n="2" trans.diat="7" trans.semi="12"/>
+                           </staffGrp>
+                        </scoreDef>
                         <measure xml:id="mtbglww" left="rptstart" n="191">
                            <staff xml:id="sqlael2" n="1">
                               <layer xml:id="lfhytr3" n="1">
@@ -54069,6 +54084,11 @@
                         </staffGrp>
                      </scoreDef>
                      <pb xml:id="sjfwit3"/>
+                     <scoreDef xml:id="sd-trans-st2-m324">
+                        <staffGrp xml:id="sg-trans-st2-m324">
+                           <staffDef xml:id="st-trans-st2-m324" n="2" trans.diat="0" trans.semi="0"/>
+                        </staffGrp>
+                     </scoreDef>
                      <measure xml:id="meziv5w" n="324">
                         <staff xml:id="sydysaa" n="1">
                            <layer xml:id="lm3r2yy" n="1">
