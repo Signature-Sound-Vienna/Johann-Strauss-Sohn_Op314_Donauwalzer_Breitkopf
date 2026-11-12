@@ -58,7 +58,7 @@
                         <grpSym xml:id="gj18p3t" symbol="bracket"/>
                         <staffGrp xml:id="surv6is">
                            <grpSym xml:id="gpa317r" symbol="brace"/>
-                           <staffDef xml:id="s125kp8" lines="5" n="1" ppq="4">
+                           <staffDef xml:id="s125kp8" lines="5" n="1">
                               <label xml:id="lu1xnmu">Flöte I</label>
                               <labelAbbr xml:id="ldtds61">Fl. I</labelAbbr>
                               <instrDef xml:id="iu8vzgh" midi.channel="0" midi.instrnum="73" midi.volume="78.00%"/>
@@ -66,7 +66,7 @@
                               <keySig xml:id="k4jqxtk" sig="3s"/>
                               <meterSig xml:id="mu090ap" count="6" unit="8"/>
                            </staffDef>
-                           <staffDef xml:id="seqgfvt" lines="5" n="2" ppq="4">
+                           <staffDef xml:id="seqgfvt" lines="5" n="2">
                               <label xml:id="l9h7u31">Flöte II,<lb xml:id="ldjdzq51"/>Kleine Flöte</label>
                               <labelAbbr xml:id="lp4r2e0">Fl. II</labelAbbr>
                               <instrDef xml:id="iaxoq82" midi.channel="1" midi.instrnum="72" midi.volume="78.00%"/>
@@ -75,7 +75,7 @@
                               <meterSig xml:id="mdsgyuo" count="6" unit="8"/>
                            </staffDef>
                         </staffGrp>
-                        <staffDef xml:id="sfddl5m" lines="5" n="3" ppq="4">
+                        <staffDef xml:id="sfddl5m" lines="5" n="3">
                            <label xml:id="lpegjya">Oboen</label>
                            <labelAbbr xml:id="lphvfv7">Ob.</labelAbbr>
                            <instrDef xml:id="ige31jz" midi.channel="12" midi.instrnum="68" midi.volume="78.00%"/>
@@ -87,14 +87,14 @@
                            <grpSym xml:id="g8hijm8" symbol="brace"/>
                            <label xml:id="le6znll1">Klarinetten in C</label>
                            <labelAbbr xml:id="llgtt21">Klar.<lb xml:id="ld3klw3"/>in C</labelAbbr>
-                           <staffDef xml:id="st9d5kz" lines="5" n="4" ppq="4">
+                           <staffDef xml:id="st9d5kz" lines="5" n="4">
                               <label xml:id="lifjedl">I</label>
                               <instrDef xml:id="infpnkp" midi.channel="13" midi.instrnum="71" midi.volume="78.00%"/>
                               <clef xml:id="csc9wyb" line="2" shape="G"/>
                               <keySig xml:id="k5oxqja" sig="3s"/>
                               <meterSig xml:id="ma9fane" count="6" unit="8"/>
                            </staffDef>
-                           <staffDef xml:id="s5gjc2i" lines="5" n="5" ppq="4">
+                           <staffDef xml:id="s5gjc2i" lines="5" n="5">
                               <label xml:id="lj6u74e">II</label>
                               <instrDef xml:id="i5esonr" midi.channel="4" midi.instrnum="71" midi.volume="78.00%"/>
                               <clef xml:id="ceg4fel" line="2" shape="G"/>
@@ -102,7 +102,7 @@
                               <meterSig xml:id="mqmc5w7" count="6" unit="8"/>
                            </staffDef>
                         </staffGrp>
-                        <staffDef xml:id="sv3xyk1" lines="5" n="6" ppq="4">
+                        <staffDef xml:id="sv3xyk1" lines="5" n="6">
                            <label xml:id="lphbu91">Fagotte</label>
                            <labelAbbr xml:id="lwncojd">Fag.</labelAbbr>
                            <instrDef xml:id="izbp8xz" midi.channel="14" midi.instrnum="70" midi.volume="78.00%"/>
@@ -117,7 +117,7 @@
                            <grpSym xml:id="gr1a96e" symbol="brace"/>
                            <label xml:id="lb509e6">Hörner in F</label>
                            <labelAbbr xml:id="lyjgw1f1">Hr.<lb xml:id="l2z2w49"/>in F</labelAbbr>
-                           <staffDef xml:id="subx18u" lines="5" n="7" ppq="4" trans.diat="-4" trans.semi="-7">
+                           <staffDef xml:id="subx18u" lines="5" n="7" trans.diat="-4" trans.semi="-7">
                               <label xml:id="l67kf0x">I II</label>
                               <labelAbbr xml:id="ldjnoyk">I II</labelAbbr>
                               <instrDef xml:id="itvtzjc" midi.channel="15" midi.instrnum="60" midi.volume="78.00%"/>
@@ -125,7 +125,7 @@
                               <keySig xml:id="k9wj5bx" sig="4s"/>
                               <meterSig xml:id="mctb7lc" count="6" unit="8"/>
                            </staffDef>
-                           <staffDef xml:id="strfz49" lines="5" n="8" ppq="4" trans.diat="-4" trans.semi="-7">
+                           <staffDef xml:id="strfz49" lines="5" n="8" trans.diat="-4" trans.semi="-7">
                               <label xml:id="lwq35yg">III IV</label>
                               <labelAbbr xml:id="l4hhatx">III IV</labelAbbr>
                               <instrDef xml:id="i37zxkc" midi.channel="5" midi.instrnum="60" midi.volume="78.00%"/>
@@ -134,7 +134,7 @@
                               <meterSig xml:id="mqeshkn" count="6" unit="8"/>
                            </staffDef>
                         </staffGrp>
-                        <staffDef xml:id="so7bsap" lines="5" n="9" ppq="4" trans.diat="3" trans.semi="5">
+                        <staffDef xml:id="so7bsap" lines="5" n="9" trans.diat="3" trans.semi="5">
                            <label xml:id="lb2i0x6">Trompeten in F<lb xml:id="lnhe2hz"/>I II</label>
                            <labelAbbr xml:id="ly9pgxj">Trp. in F<lb xml:id="ldeqilb"/>I II</labelAbbr>
                            <instrDef xml:id="ir75vup" midi.channel="0" midi.instrnum="56" midi.volume="78.00%"/>
@@ -142,7 +142,7 @@
                            <keySig xml:id="kk23mu9" sig="4s"/>
                            <meterSig xml:id="m2m4mu1" count="6" unit="8"/>
                         </staffDef>
-                        <staffDef xml:id="svflycm" lines="5" n="10" ppq="4">
+                        <staffDef xml:id="svflycm" lines="5" n="10">
                            <label xml:id="ln8j4vy">Baß-Posaune<lb xml:id="l1nrexv"/>Tuba</label>
                            <labelAbbr xml:id="lx9q9pj">B.-Pos.<lb xml:id="l22r35i"/>Tb.</labelAbbr>
                            <instrDef xml:id="iy4nd2u" midi.channel="2" midi.instrnum="57" midi.volume="78.00%"/>
@@ -153,7 +153,7 @@
                      </staffGrp>
                      <staffGrp xml:id="s7naijk" bar.thru="true">
                         <grpSym xml:id="goecvbw" symbol="bracket"/>
-                        <staffDef xml:id="smv2mx4" lines="5" n="11" ppq="4">
+                        <staffDef xml:id="smv2mx4" lines="5" n="11">
                            <label xml:id="lcj05hh">Pauken<lb xml:id="lx9f89o"/>Triangel u.<lb xml:id="l3qqiy4"/>große Trommel</label>
                            <labelAbbr xml:id="lyr2bkx">Pk.<lb xml:id="lmw1o9"/>Trgl. u.<lb xml:id="l24f9tr"/>gr. Tr.</labelAbbr>
                            <instrDef xml:id="is7qai8" midi.channel="4" midi.instrnum="47" midi.volume="78.00%"/>
@@ -161,7 +161,7 @@
                            <keySig xml:id="kln24nb" sig="0"/>
                            <meterSig xml:id="mc46kvo" count="6" unit="8"/>
                         </staffDef>
-                        <staffDef xml:id="scdbsvd" lines="1" n="12" ppq="4">
+                        <staffDef xml:id="scdbsvd" lines="1" n="12">
                            <label xml:id="lh6fz92">kleine Trommel</label>
                            <labelAbbr xml:id="l3nr5jv">kl. Tr.</labelAbbr>
                            <instrDef xml:id="i6z3mvk" midi.channel="9" midi.instrnum="48" midi.volume="78.00%"/>
@@ -177,12 +177,12 @@
                            <label xml:id="ltctrtm">Harfe</label>
                            <labelAbbr xml:id="lclolfu">Hrf.</labelAbbr>
                            <instrDef xml:id="iky4bgo" midi.channel="6" midi.instrnum="46" midi.volume="78.00%"/>
-                           <staffDef xml:id="sp66n12" lines="5" n="13" ppq="4">
+                           <staffDef xml:id="sp66n12" lines="5" n="13">
                               <clef xml:id="cpge9ll" line="2" shape="G"/>
                               <keySig xml:id="kqm1wl1" sig="3s"/>
                               <meterSig xml:id="m5hg9jx" count="6" unit="8"/>
                            </staffDef>
-                           <staffDef xml:id="stegn4k" lines="5" n="14" ppq="4">
+                           <staffDef xml:id="stegn4k" lines="5" n="14">
                               <clef xml:id="cd9rtd7" line="4" shape="F"/>
                               <keySig xml:id="kn5a2uz" sig="3s"/>
                               <meterSig xml:id="m7d2v4v" count="6" unit="8"/>
@@ -193,7 +193,7 @@
                         <grpSym xml:id="gilto5z" symbol="bracket"/>
                         <staffGrp xml:id="ssdsl03">
                            <grpSym xml:id="guvs222" symbol="brace"/>
-                           <staffDef xml:id="smer38k" lines="5" n="15" ppq="4">
+                           <staffDef xml:id="smer38k" lines="5" n="15">
                               <label xml:id="li5g96h">Violine I</label>
                               <labelAbbr xml:id="l7vl9ki">Vl. I</labelAbbr>
                               <instrDef xml:id="i3ksgdu" midi.channel="7" midi.instrnum="48" midi.volume="78.00%"/>
@@ -201,7 +201,7 @@
                               <keySig xml:id="kqx2fma" sig="3s"/>
                               <meterSig xml:id="mmd91b4" count="6" unit="8"/>
                            </staffDef>
-                           <staffDef xml:id="s8c691r" lines="5" n="16" ppq="4">
+                           <staffDef xml:id="s8c691r" lines="5" n="16">
                               <label xml:id="ldqe5vm">Violine II</label>
                               <labelAbbr xml:id="ld6mtj3">Vl. II</labelAbbr>
                               <instrDef xml:id="i28u7yd" midi.channel="7" midi.instrnum="40" midi.volume="78.00%"/>
@@ -210,7 +210,7 @@
                               <meterSig xml:id="mkx5n65" count="6" unit="8"/>
                            </staffDef>
                         </staffGrp>
-                        <staffDef xml:id="s29f3jm" lines="5" n="17" ppq="4">
+                        <staffDef xml:id="s29f3jm" lines="5" n="17">
                            <label xml:id="lbkay30">Viola</label>
                            <labelAbbr xml:id="l2zz1kz">Vla.</labelAbbr>
                            <instrDef xml:id="irxxmk0" midi.channel="11" midi.instrnum="48" midi.volume="78.00%"/>
@@ -220,7 +220,7 @@
                         </staffDef>
                         <staffGrp xml:id="so0oul01">
                            <grpSym xml:id="gyzm70n1" symbol="brace"/>
-                           <staffDef xml:id="sgtc7gp" lines="5" n="18" ppq="4">
+                           <staffDef xml:id="sgtc7gp" lines="5" n="18">
                               <label xml:id="lo9sc8g">Violoncello</label>
                               <labelAbbr xml:id="ld16cas">Vlc.</labelAbbr>
                               <instrDef xml:id="ioetnrf" midi.channel="14" midi.instrnum="48" midi.volume="78.00%"/>
@@ -228,7 +228,7 @@
                               <keySig xml:id="kim1204" sig="3s"/>
                               <meterSig xml:id="makwis6" count="6" unit="8"/>
                            </staffDef>
-                           <staffDef xml:id="sdrfbew" lines="5" n="19" ppq="4" trans.diat="-7" trans.semi="-12">
+                           <staffDef xml:id="sdrfbew" lines="5" n="19" trans.diat="-7" trans.semi="-12">
                               <label xml:id="ly251ye">Kontrabaß</label>
                               <labelAbbr xml:id="lj2ctl9">Kb.</labelAbbr>
                               <instrDef xml:id="irpzyyb" midi.channel="1" midi.instrnum="48" midi.volume="78.00%"/>
