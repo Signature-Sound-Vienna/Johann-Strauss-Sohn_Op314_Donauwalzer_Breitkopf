@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/4.0.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/4.0.1/mei-CMN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.1">
-   <meiHead>
-      <fileDesc>
-         <titleStmt>
-            <title>An der schönen blauen Donau</title>
-            <title type="desc">Op. 314</title>
-            <respStmt>
-               <persName role="composer">Johann Strauss Sohn</persName>
+<mei xml:id="mbdsizc1" meiversion="4.0.1" xmlns="http://www.music-encoding.org/ns/mei">
+   <meiHead xml:id="m94sy2v1">
+      <fileDesc xml:id="f182vxw2">
+         <titleStmt xml:id="tnxqhnm2">
+            <title xml:id="ti3oggp1">An der schönen blauen Donau</title>
+            <title xml:id="tq72syq2" type="desc">Op. 314</title>
+            <respStmt xml:id="rzbfvdv1">
+               <persName xml:id="p15vrs9" role="composer">Johann Strauss Sohn</persName>
             </respStmt>
          </titleStmt>
-         <pubStmt>
-            <date isodate="2022-02-08" type="encoding-date">2022-04-20</date>
-            <respStmt>
+         <pubStmt xml:id="pne8gxm1">
+            <date xml:id="di0qnt01" isodate="2022-02-08" type="encoding-date">2022-04-20</date>
+            <respStmt xml:id="rbcx4fy1">
                <persName xml:id="Matthaeus_Pescoller" role="encoder">Matthäus Pescoller</persName>
                <persName xml:id="Delilah_Rammler" role="encoder">Delilah Rammler</persName>
                <persName xml:id="Werner_Goebl" role="encoder">Werner Goebl</persName>
                <persName xml:id="David_M_Weigl" role="encoder">David M. Weigl</persName>
             </respStmt>
-            <publisher>
-               <corpName>Breitkopf und Härtel</corpName>
-               <address>
-                  <addrLine>Leipzig</addrLine>
-                  <addrLine>Germany</addrLine>
+            <publisher xml:id="pcia5mx1">
+               <corpName xml:id="c3r9h7h">Breitkopf und Härtel</corpName>
+               <address xml:id="a092km71">
+                  <addrLine xml:id="awltm07">Leipzig</addrLine>
+                  <addrLine xml:id="a0ek8r5">Germany</addrLine>
                </address>
-               <date>1920</date>
+               <date xml:id="dy9hwar1">1920</date>
             </publisher>
          </pubStmt>
       </fileDesc>
@@ -35,7 +35,7 @@
                <name xml:id="name-3zu9op">Verovio</name>
                <p xml:id="p-bk9m9d">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="angivbt2" enddate="2025-10-22T13:59:40" startdate="2023-03-20T10:25:11" version="1.2.9">
+            <application xml:id="angivbt2" enddate="2026-11-12T16:10:04" startdate="2023-03-20T10:25:11" version="1.6.0">
                <name xml:id="nq5wpic1">mei-friend</name>
                <p xml:id="ph2i6wc">First edit by mei-friend 0.8.4, 27 Feb 2023.</p>
             </application>
@@ -117,7 +117,7 @@
                            <grpSym xml:id="gr1a96e" symbol="brace"/>
                            <label xml:id="lb509e6">Hörner in F</label>
                            <labelAbbr xml:id="lyjgw1f1">Hr.<lb xml:id="l2z2w49"/>in F</labelAbbr>
-                           <staffDef xml:id="subx18u" lines="5" n="7" ppq="4" trans.diat="-4.000000" trans.semi="-7.000000">
+                           <staffDef xml:id="subx18u" lines="5" n="7" ppq="4" trans.diat="-4" trans.semi="-7">
                               <label xml:id="l67kf0x">I II</label>
                               <labelAbbr xml:id="ldjnoyk">I II</labelAbbr>
                               <instrDef xml:id="itvtzjc" midi.channel="15" midi.instrnum="60" midi.volume="78.00%"/>
@@ -125,7 +125,7 @@
                               <keySig xml:id="k9wj5bx" sig="4s"/>
                               <meterSig xml:id="mctb7lc" count="6" unit="8"/>
                            </staffDef>
-                           <staffDef xml:id="strfz49" lines="5" n="8" ppq="4" trans.diat="-4.000000" trans.semi="-7.000000">
+                           <staffDef xml:id="strfz49" lines="5" n="8" ppq="4" trans.diat="-4" trans.semi="-7">
                               <label xml:id="lwq35yg">III IV</label>
                               <labelAbbr xml:id="l4hhatx">III IV</labelAbbr>
                               <instrDef xml:id="i37zxkc" midi.channel="5" midi.instrnum="60" midi.volume="78.00%"/>
@@ -134,7 +134,7 @@
                               <meterSig xml:id="mqeshkn" count="6" unit="8"/>
                            </staffDef>
                         </staffGrp>
-                        <staffDef xml:id="so7bsap" lines="5" n="9" ppq="4" trans.diat="3.000000" trans.semi="5.000000">
+                        <staffDef xml:id="so7bsap" lines="5" n="9" ppq="4" trans.diat="3" trans.semi="5">
                            <label xml:id="lb2i0x6">Trompeten in F<lb xml:id="lnhe2hz"/>I II</label>
                            <labelAbbr xml:id="ly9pgxj">Trp. in F<lb xml:id="ldeqilb"/>I II</labelAbbr>
                            <instrDef xml:id="ir75vup" midi.channel="0" midi.instrnum="56" midi.volume="78.00%"/>
@@ -228,7 +228,7 @@
                               <keySig xml:id="kim1204" sig="3s"/>
                               <meterSig xml:id="makwis6" count="6" unit="8"/>
                            </staffDef>
-                           <staffDef xml:id="sdrfbew" lines="5" n="19" ppq="4" trans.diat="-7.000000" trans.semi="-12.000000">
+                           <staffDef xml:id="sdrfbew" lines="5" n="19" ppq="4" trans.diat="-7" trans.semi="-12">
                               <label xml:id="ly251ye">Kontrabaß</label>
                               <labelAbbr xml:id="lj2ctl9">Kb.</labelAbbr>
                               <instrDef xml:id="irpzyyb" midi.channel="1" midi.instrnum="48" midi.volume="78.00%"/>
