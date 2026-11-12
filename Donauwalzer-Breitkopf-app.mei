@@ -117,7 +117,7 @@
                            <grpSym xml:id="gr1a96e" symbol="brace"/>
                            <label xml:id="lb509e6">Hörner in F</label>
                            <labelAbbr xml:id="lyjgw1f1">Hr.<lb xml:id="l2z2w49"/>in F</labelAbbr>
-                           <staffDef xml:id="subx18u" lines="5" n="7" ppq="4" trans.diat="-4.000000" trans.semi="-7.000000">
+                           <staffDef xml:id="subx18u" lines="5" n="7" ppq="4" trans.diat="-4" trans.semi="-7">
                               <label xml:id="l67kf0x">I II</label>
                               <labelAbbr xml:id="ldjnoyk">I II</labelAbbr>
                               <instrDef xml:id="itvtzjc" midi.channel="15" midi.instrnum="60" midi.volume="78.00%"/>
@@ -125,7 +125,7 @@
                               <keySig xml:id="k9wj5bx" sig="4s"/>
                               <meterSig xml:id="mctb7lc" count="6" unit="8"/>
                            </staffDef>
-                           <staffDef xml:id="strfz49" lines="5" n="8" ppq="4" trans.diat="-4.000000" trans.semi="-7.000000">
+                           <staffDef xml:id="strfz49" lines="5" n="8" ppq="4" trans.diat="-4" trans.semi="-7">
                               <label xml:id="lwq35yg">III IV</label>
                               <labelAbbr xml:id="l4hhatx">III IV</labelAbbr>
                               <instrDef xml:id="i37zxkc" midi.channel="5" midi.instrnum="60" midi.volume="78.00%"/>
@@ -134,7 +134,7 @@
                               <meterSig xml:id="mqeshkn" count="6" unit="8"/>
                            </staffDef>
                         </staffGrp>
-                        <staffDef xml:id="so7bsap" lines="5" n="9" ppq="4" trans.diat="3.000000" trans.semi="5.000000">
+                        <staffDef xml:id="so7bsap" lines="5" n="9" ppq="4" trans.diat="3" trans.semi="5">
                            <label xml:id="lb2i0x6">Trompeten in F<lb xml:id="lnhe2hz"/>I II</label>
                            <labelAbbr xml:id="ly9pgxj">Trp. in F<lb xml:id="ldeqilb"/>I II</labelAbbr>
                            <instrDef xml:id="ir75vup" midi.channel="0" midi.instrnum="56" midi.volume="78.00%"/>
@@ -228,7 +228,7 @@
                               <keySig xml:id="kim1204" sig="3s"/>
                               <meterSig xml:id="makwis6" count="6" unit="8"/>
                            </staffDef>
-                           <staffDef xml:id="sdrfbew" lines="5" n="19" ppq="4" trans.diat="-7.000000" trans.semi="-12.000000">
+                           <staffDef xml:id="sdrfbew" lines="5" n="19" ppq="4" trans.diat="-7" trans.semi="-12">
                               <label xml:id="ly251ye">Kontrabaß</label>
                               <labelAbbr xml:id="lj2ctl9">Kb.</labelAbbr>
                               <instrDef xml:id="irpzyyb" midi.channel="1" midi.instrnum="48" midi.volume="78.00%"/>
@@ -3585,6 +3585,11 @@
                               <staffDef xml:id="s13ltr6p" n="19">
                                  <keySig xml:id="kdog8be" sig="2s" sig.showchange="true"/>
                               </staffDef>
+                           </staffGrp>
+                        </scoreDef>
+                        <scoreDef xml:id="sd-trans-st2-m23">
+                           <staffGrp xml:id="sg-trans-st2-m23">
+                              <staffDef xml:id="st-trans-st2-m23" n="2" trans.diat="7" trans.semi="12"/>
                            </staffGrp>
                         </scoreDef>
                         <measure xml:id="mcz1v3z" n="23">
@@ -28725,6 +28730,11 @@
                            </staffGrp>
                         </scoreDef>
                         <pb xml:id="sxenoj6"/>
+                        <scoreDef xml:id="sd-trans-st2-m167">
+                           <staffGrp xml:id="sg-trans-st2-m167">
+                              <staffDef xml:id="st-trans-st2-m167" n="2" trans.diat="0" trans.semi="0"/>
+                           </staffGrp>
+                        </scoreDef>
                         <measure xml:id="mqpciui" n="167">
                            <staff xml:id="spzzcgm" n="1">
                               <layer xml:id="lh2t4sy" n="1">
@@ -32711,6 +32721,11 @@
                         </measure>
                      </ending>
                      <section xml:id="Walzer-4-B">
+                        <scoreDef xml:id="sd-trans-st2-m191">
+                           <staffGrp xml:id="sg-trans-st2-m191">
+                              <staffDef xml:id="st-trans-st2-m191" n="2" trans.diat="7" trans.semi="12"/>
+                           </staffGrp>
+                        </scoreDef>
                         <measure xml:id="mtbglww" left="rptstart" n="191">
                            <staff xml:id="sqlael2" n="1">
                               <layer xml:id="lfhytr3" n="1">
@@ -54075,6 +54090,11 @@
                         </staffGrp>
                      </scoreDef>
                      <pb xml:id="sjfwit3"/>
+                     <scoreDef xml:id="sd-trans-st2-m324">
+                        <staffGrp xml:id="sg-trans-st2-m324">
+                           <staffDef xml:id="st-trans-st2-m324" n="2" trans.diat="0" trans.semi="0"/>
+                        </staffGrp>
+                     </scoreDef>
                      <measure xml:id="meziv5w" n="324">
                         <staff xml:id="sydysaa" n="1">
                            <layer xml:id="lm3r2yy" n="1">
